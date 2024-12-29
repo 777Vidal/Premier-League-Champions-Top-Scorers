@@ -34,20 +34,20 @@ The dataset was created manually and contains the following columns:
 ## Analysis & Visualisations
 ### Key Visualisations:
 1. **Did the League's Top Scorer Play for the Champion Team?**
-   - A bar chart shows how often the league's top scorer was from the champion team.
-
-2. **Positions of League Top Scorers in Champion Teams**
-   - A bar chart visualising positions (e.g., ST, FW, AM) of players who were both the league's top scorer and part of the champion team.
-
-3. **All League Top Scorer Positions**
-   - A bar chart comparing the positions of all league top scorers, regardless of whether their team won the league.
-
-4. **Positions of Champion Team's Top Scorers**
-   - A bar chart showing the distribution of positions for the champion team’s top scorers.
-
-5. **Proportion of Seasons with League Top Scorer in Champion Team**
+   - Returning a % of how often the league's top scorer was from the champion team.
+  
+2. **Proportion of Seasons with League Top Scorer in Champion Team**
    - A pie chart showing the proportion of Top Scorers and if they won the league or not.
 
+3. **Positions of Champion Team's Top Scorers**
+   - A bar chart showing the distribution of positions for the champion team’s top scorers.
+
+4. **Positions of League Top Scorers in Champion Teams**
+   - A bar chart visualising positions (e.g., ST, FW, AM) of players who were both the league's top scorer and part of the champion team.
+
+5. **All League Top Scorer Positions**
+   - A bar chart comparing the positions of all league top scorers, regardless of whether their team won the league.
+     
 6. **League's Top Scorer in Champion Team Over Time**
    - A lineplot graph visualising over time if the top scorer played for the champion team.
 
